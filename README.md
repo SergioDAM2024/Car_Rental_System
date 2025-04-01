@@ -1,6 +1,6 @@
-# 🚗 Car Rental System
+# 🚗 AlquiCar
 
-Welcome to the Car Rental System project! This system is designed to streamline the management of car rentals, driver assignments, and customer bookings. Built using C#, SQL, Visual Studio, and SQL Server Management Studio, it provides an efficient interface for handling all rental operations.
+Desarrollado por Sergio Gracia Aparicio
 
 ## 🌟 Features
 
